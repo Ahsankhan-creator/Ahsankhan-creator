@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+<br>🎓 **Software Engineering Student** at IQRA University  <br>💻 Backend Developer | Java & Spring Boot Enthusiast  <br>📍 Based in Karachi, Pakistan  <br>📬 Reach me: mahsaankhan356@gmail.com  <br>🌐 [My Portfolio](https://dev-portfolio-u.netlify.app/)<br><br>---<br><br>### 🛠️ Tech Stack<br><br>When I code, I use:<br><br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)<br>![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br>![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br><br>---<br><br>### 🚀 Projects I’ve Worked On<br><br>- 🎓 **Online Course Enrollment System**  <br>  Java + Spring Boot based course registration with conflict checking and auto-cancellation.<br><br>- 🏦 **Banking Management System**  <br>  Desktop Java app for account & transaction management with MySQL and JDBC.<br><br>- 📊 **Player Stats DB System**  <br>  SQL database design and stored procedures for player match history and rankings.<br><br>- 📱 **School Management App**  <br>  Android app managing records, attendance & timetables with offline SQLite support.<br><br>---<br><br>### 📈 GitHub Stats<br><br>![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsankhan-creator&show_icons=true&theme=dark&count_private=true)<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhan-creator&layout=compact&theme=dark)<br><br>---<br><br>### 🧠 Currently Learning<br><br>- RESTful APIs with Spring Boot  <br>- Real-time systems & architecture  <br>- Database optimization  <br>- Frontend integration using Thymeleaf<br><br>---<br><br>### ☕ Let's Connect<br><br>I'm open to collaborations, internships, and tech conversations. Feel free to reach out!  <br>📧 [mahsaankhan356@gmail.com](mailto:mahsaankhan356@gmail.com)  <br>🌐 [Portfolio Website](https://dev-portfolio-u.netlify.app/)<br><br>---<br><br>> “First, solve the problem. Then, write the code.” – John Johnson<br><br>⭐ **If you like my work, don’t forget to star my repositories and follow me!**
 
-<!--
-**Ahsankhan-creator/Ahsankhan-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahsankhan-creator&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ahsankhan-creator&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhan-creator&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Ahsankhan-creator&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
