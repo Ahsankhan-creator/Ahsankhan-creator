@@ -52,18 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahsankhan-creator&theme=dark&show_icons=true&count_private=true" alt="Ahsan's GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ahsankhan-creator&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsankhan-creator&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
 ## 🧠 Currently Learning
 
 - RESTful APIs with Spring Boot  
